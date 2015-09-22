@@ -1,0 +1,4 @@
+#exercise 1
+puts name
+puts height
+optimal_weight = height - 110
